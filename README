@@ -1,0 +1,11 @@
+Beat Jeff Douglas
+
+URL: http://www.cloudspokes.com/challenge_detail.html?contestID=127
+Challenge end date: Mon Mar 21 13:00:00 GMT 2011
+Description
+===========
+Create a Firefox extension of the The Force.com Utility Belt. The Force.com Utility Belt is a Google Chrome Extension that provides an array of utilities and quick reference for Force.com developers. The belt contains the following functionality: Quick Reference Topics for Apex, Visualforce, Visualforce Components, SOQL, Ajax Toolkit, Web Services API, Search functionality on different scopes with keyword search, and an ID Converter from 15-digit ID to 18-digit ID. <br> <br> <img src="https://acdcstorage.blob.core.windows.net/contestassets/3aecd7fc-4ac5-4279-ab02-18617a66ee12.png" width="550"></img>
+
+Requirements
+============
+Build a Firefox extension with the same functionality. The source code for the Chrome extension is attached for reference.
