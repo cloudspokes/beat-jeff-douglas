@@ -1,0 +1,10 @@
+
+#forcedotcomutilitybelt-toolbar-button
+{
+  list-style-image: url("chrome://forcedotcomutilitybelt/skin/icon.png");
+}
+
+[iconsize="small"] #forcedotcomutilitybelt-toolbar-button
+{
+	list-style-image: url("chrome://forcedotcomutilitybelt/skin/icon16.png");
+}

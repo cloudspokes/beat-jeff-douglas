@@ -1,0 +1,4 @@
+<!ENTITY prefwindow.title "Force.com Utility Belt Preferences">
+<!ENTITY pane1.title "Force.com Utility Belt Preferences">
+<!ENTITY checkboolpref.label "Display Autocomplete?">
+<!ENTITY checkboolpref.accesskey "B">
